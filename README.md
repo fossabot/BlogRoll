@@ -1,4 +1,6 @@
 # BlogRoll
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FZeddYu%2FBlogRoll.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FZeddYu%2FBlogRoll?ref=badge_shield)
+
 
 > 南京航空航天大学 Blog 收集计划
 
@@ -52,3 +54,7 @@
 - 若不熟悉 Git flow, 则点击上方 `issues` 提交你们的分享或个人 Blog;
 - 推荐: `Fork` 后, 编辑本 `README` 文件的目录内容，提 `Pull Request` 来提交个人 Blog 及 RSS 地址;
 - 可以在评论中通过 `@` 通知相关同学和分组.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FZeddYu%2FBlogRoll.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FZeddYu%2FBlogRoll?ref=badge_large)
